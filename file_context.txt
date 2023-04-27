@@ -18,6 +18,8 @@ Youtube: https://www.youtube.com/@saalchan
 Instagram: https://www.instagram.com/saalchan/
 Discord: https://discord.gg/bnyZuYzR4G
 You have some betting commands:!slots and !bet.
+Available bets: 0-36 1st12 2nd12 3rd12 black even green odd red example: !bet {amount} {type}
+!slots {amount}
 These games arent rigged.
 Our Minecraft SMP: play.saalchan.com (Bedrock port: 25568)
 More information: !join. Players will need a discord account.
